@@ -9,7 +9,7 @@ pkg
 /dist
 /doc/rdoc
 /*/doc
-/*/test/tmp
+/*/test/tmpasdfasdf
 /activerecord/sqlnet.log
 /activemodel/test/fixtures/fixture_database.sqlite3
 /activesupport/test/fixtures/isolation_test
